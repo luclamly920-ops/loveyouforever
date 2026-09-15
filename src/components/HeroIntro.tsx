@@ -27,19 +27,6 @@ export const HeroIntro: React.FC = () => {
       </div>
 
       <div className="relative z-10 w-full min-w-0">
-        
-        {/* Top Tagline & Concept Pills */}
-        <div className="flex flex-wrap items-center gap-2 mb-4">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-rose-100 dark:bg-rose-950/80 text-rose-700 dark:text-rose-200 border border-rose-200/80 dark:border-rose-800/80 shadow-2xs">
-            <span className="text-sm">🌸</span> Thanh xuân vườn trường
-          </span>
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-200 border border-amber-200/80 dark:border-amber-800/80 shadow-2xs">
-            <Sun className="w-3 h-3 text-amber-500" /> Mùa hè rực rỡ
-          </span>
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-sky-100 dark:bg-sky-950/80 text-sky-800 dark:text-sky-200 border border-sky-200/80 dark:border-sky-800/80 shadow-2xs">
-            <Wind className="w-3 h-3 text-sky-500" /> Bản dịch phi lợi nhuận
-          </span>
-        </div>
 
         {/* Blog Main Title */}
         <div className="mb-6">
