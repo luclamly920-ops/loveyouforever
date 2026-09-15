@@ -213,21 +213,7 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
               </button>
             );
           })}
-          <button
-            onClick={onOpenBloggerCode}
-            className="px-3.5 py-1.5 rounded-full text-xs font-medium whitespace-nowrap flex items-center gap-1.5 text-emerald-700 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 border border-emerald-200 dark:border-emerald-800 shrink-0 shadow-2xs"
-          >
-            <Code2 className="w-3.5 h-3.5 text-emerald-500" />
-            <span>Mã Blogger</span>
-          </button>
 
-          <button
-            onClick={onOpenGitHubDeploy}
-            className="px-3.5 py-1.5 rounded-full text-xs font-semibold whitespace-nowrap flex items-center gap-1.5 text-slate-800 dark:text-white bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-600 shrink-0 shadow-2xs"
-          >
-            <Github className="w-3.5 h-3.5 text-slate-700 dark:text-slate-300" />
-            <span>Đăng web lên GitHub</span>
-          </button>
         </div>
       </div>
     </header>
