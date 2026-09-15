@@ -90,7 +90,6 @@ export const Footer: React.FC<FooterProps> = ({ stats, onOpenBloggerCode, onOpen
               </a>
             </div>
 
-            )}
           </div>
 
           {/* Col 3: BỘ ĐẾM NGƯỜI TRUY CẬP (Visitor counter) */}
