@@ -72,13 +72,12 @@ export const PASSWORD_HINTS: PasswordHint[] = [
 export const NOVELS: Novel[] = [
   {
     id: 'novel-1',
-    title: 'Hạ Nhật Phong Ngâm',
-    originalTitle: '夏日风吟 (Khúc Gió Mùa Hạ)',
-    author: 'Trúc Dĩ Lâm Miên',
+    title: 'Hướng dẫn lãng phí tình yêu',
+    author: 'Quy Ngư',
     translator: 'Mellifluous',
     status: 'completed',
-    category: 'Thanh xuân vườn trường',
-    tags: ['Thanh xuân', 'Học đường', 'Ngọt sủng', 'Chữa lành', 'HE'],
+    category: 'Hướng dẫn lãng phí tình yêu',
+    tags: ['Trưởng thành', 'Yêu thầm'],
     coverColor: 'from-rose-100 via-amber-50 to-pink-100',
     summary: 'Năm mười bảy tuổi ấy, mùa hè dài bất tận như tiếng ve sầu vang vọng góc hành lang lớp học. Chu Tự Hằng là học thần lạnh lùng của lớp chọn một, còn Khương Noãn là cô gái bàn bên luôn lén giấu những viên kẹo dâu vào ngăn bàn anh. Một cơn gió mùa hạ thổi qua, thổi rung rinh tà áo đồng phục trắng và kết thành câu chuyện mười năm không phai.',
     totalChapters: 15,
