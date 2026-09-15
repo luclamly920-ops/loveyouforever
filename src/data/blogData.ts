@@ -79,7 +79,13 @@ export const NOVELS: Novel[] = [
     category: 'Hướng dẫn lãng phí tình yêu',
     tags: ['Trưởng thành', 'Yêu thầm'],
     coverColor: 'from-rose-100 via-amber-50 to-pink-100',
-    summary: 'Năm mười bảy tuổi ấy, mùa hè dài bất tận như tiếng ve sầu vang vọng góc hành lang lớp học. Chu Tự Hằng là học thần lạnh lùng của lớp chọn một, còn Khương Noãn là cô gái bàn bên luôn lén giấu những viên kẹo dâu vào ngăn bàn anh. Một cơn gió mùa hạ thổi qua, thổi rung rinh tà áo đồng phục trắng và kết thành câu chuyện mười năm không phai.',
+    summary: `Năm 14 tuổi, Hà Ỷ Nguyệt tự tay giết một người, đem chôn dưới gốc cây quýt. Trong suốt 10 năm, linh hồn ấy chưa từng rời bỏ cô.
+
+*— 《Sổ tay trưởng thành và chữa lành của Ma nữ tâm thần》*
+
+[center-bold]Kẻ dã tâm dịu dàng nhưng lạnh máu x Tiểu thư “Ma nữ”[/center-bold]
+
+[center-bold]BẢN DỊCH ĐÃ CÓ SỰ CHO PHÉP CỦA TÁC GIẢ VỚI MỤC ĐÍCH PHI LỢI NHUẬN[/center-bold]`,
     totalChapters: 15,
     completedChapters: 15,
     rating: 4.9,
