@@ -90,21 +90,6 @@ export const Footer: React.FC<FooterProps> = ({ stats, onOpenBloggerCode, onOpen
               </a>
             </div>
 
-            <button
-              onClick={onOpenBloggerCode}
-              className="mt-3 text-xs font-medium text-emerald-600 dark:text-emerald-400 hover:underline flex items-center gap-1"
-            >
-              <span>✦ Bạn là người thiết kế web? Lấy mã Blogger tại đây</span>
-            </button>
-
-            {onOpenGitHubDeploy && (
-              <button
-                onClick={onOpenGitHubDeploy}
-                className="mt-1.5 text-xs font-medium text-slate-700 dark:text-slate-300 hover:text-rose-600 dark:hover:text-rose-400 hover:underline flex items-center gap-1.5"
-              >
-                <Github className="w-3.5 h-3.5 text-slate-600 dark:text-slate-400" />
-                <span>Hướng dẫn đăng tải web lên GitHub Pages (Miễn phí)</span>
-              </button>
             )}
           </div>
 
